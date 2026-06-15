@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀Building AI + Full-Stack Web Apps<br>🎓 B.Tech CSE Student at Sanjivani University<br>🧠 Working on AI-based Healthcare Tech Projects<br>🏆 National Hackathon Finalist (Top 75 & Top 50)<br>🎨 Skilled in React, Python, Tailwind, SEO, Replit, GitHub<br>🤝 Open to collaboration on AI, Web & Startup ideas
 
 
